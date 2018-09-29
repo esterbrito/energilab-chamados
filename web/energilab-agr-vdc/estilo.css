@@ -1,0 +1,46 @@
+.table-responsive{
+	position: relative;
+	top: 40px;
+}
+
+div#addarq{
+	position: relative;
+	
+}
+.formPesquisa{
+	position: relative;
+	left: -20px;;
+}
+
+.txtPesqui{
+	height: 40px;
+}
+.btnAbrirChamado{
+	position: relative;
+	left: 800px;
+	margin: 10px;
+}
+.imgPerfil{
+	width: 100px;
+	height: 100px;
+	margin-top: 30px;
+}
+.tabelaPerfil{
+	margin-top: 20px;
+	text-align: center;
+}
+.txtInfoPerfil{
+	text-align: left;
+}
+.imgLogoNome{
+	width: 227px;
+	height: 45;
+}
+.editar-icon{
+	color: blue;
+}
+.cf-fazer-chamado{
+	margin-left: auto;
+	margin-top: 40px;
+}
+/* */
